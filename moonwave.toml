@@ -1,0 +1,14 @@
+title = "MyProjectName"  # From Git
+gitRepoUrl = "https://github.com/Sparkypen7/Luau-Crash-Course" # From Git
+
+# From git:
+projectName = "MyProjectName"
+url = "https://Sparkypen7.github.io/"
+
+[docusaurus]
+onBrokenLinks = "throw"
+onBrokenMarkdownLinks = "warn"
+# favicon = ""
+
+[footer]
+style = "dark"
